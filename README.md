@@ -21,12 +21,6 @@ Bu projeyi çalıştırmak için aşağıdaki kütüphanelerin yüklü olması g
 
 pip install tensorflow matplotlib numpy pandas sklearn
 
-    🚀 Kullanım
-
-Aşağıdaki komutları çalıştırarak modeli eğitebilir ve test edebilirsiniz:
-
-python train_model.py
-
     📊 Veri Setleri Hakkında
     
 👕 Fashion MNIST
